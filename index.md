@@ -1,21 +1,35 @@
-# Welcome to My Website
+# Be a Penguin
+Building Financial Literacy. Enduring the Winter. Compounding for the Long Term.
 
-This is the content of my website, converted from HTML to Markdown.
+## Our Mission
 
-## Section 1
+I am building a book of business focused on financial literacy, strategic capital allocation, and disciplined long-term growth. Rooted in mathematics and business principles, this platform empowers individuals to survive volatility and build enduring wealth.
 
-- Item 1
-- Item 2
-- Item 3
+## The 5 Penguin Principles
 
-## Section 2
+### 1. Survive First
+Risk management and capital preservation come before growth.
 
-Here is some text that was in a paragraph in the HTML file.
+### 2. Build in Groups
+Networks, partnerships, and strategic alliances create strength.
 
-## Section 3
+### 3. Endure the Winter
+Volatility is temporary. Discipline is permanent.
 
-You can visit [my blog](https://example.com) for more information.
+### 4. Rotate Leadership
+Diversification reduces exposure and increases stability.
 
-## Conclusion
+### 5. Move With Purpose
+Capital allocation should always be intentional and strategic.
 
-Thank you for visiting my site!
+## Services
+
+- Financial Literacy Courses
+- Workshops & Corporate Training
+- Strategic Advisory (Educational)
+- Digital Tools & Models
+- Community & Membership Programs
+
+---
+
+© 2026 Be a Penguin | Financial Literacy Initiative
